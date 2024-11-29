@@ -30,4 +30,6 @@ This project aims to classify whether an individual is at risk of developing dia
 ## Requirements
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+- Use the command: `pip install -r requirements.txt` to install the needed libraries for the project
+
 
